@@ -1,6 +1,17 @@
-### Hi there 👋
+## Welcome to my :parking:osession :facepunch:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Looking for experienced developer or revolutionary projects? Sorry to disappoint you.. but I'm gettin' there :pray:  
+In case you cared enough to come here - I'm a 3rd year Computer Science student, mostly interested in full-stack development, but recently working mainly on the back side of things.
+
+### Big music enjoyer, a bigger one* :point_down:
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21d3anjhfkwm6xqcco2hvqqhi&count=3&width=500)
+
+
+### Have worked with:  
+[![My Skills](https://skillicons.dev/icons?i=js,java,kotlin,py,c,git,express,react,spring,postman,html,css)](https://skillicons.dev)
+
+doesn't necessarily mean I know them :ok_woman:
 <!--
 **siendobry/siendobry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
