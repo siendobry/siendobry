@@ -9,7 +9,7 @@ In case you cared enough to come here - I'm a 3rd year Computer Science student,
 
 
 ### Have worked with:  
-[![My Skills](https://skillicons.dev/icons?i=js,java,kotlin,py,c,git,express,react,spring,postman,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,kotlin,py,c,git,nodejs,express,react,spring,mongodb,postgres,postman,html,css,figma&perline=8)](https://skillicons.dev)
 
 doesn't necessarily mean I know them :ok_woman:
 <!--
