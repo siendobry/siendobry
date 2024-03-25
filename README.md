@@ -1,4 +1,4 @@
-## Welcome to my :parking:osession :facepunch:
+## Welcome to my :parking:rofile :facepunch:
 
 Looking for experienced developer or revolutionary projects? Sorry to disappoint you.. but I'm gettin' there :pray:  
 In case you cared enough to come here - I'm a 3rd year Computer Science student, mostly interested in full-stack development, but recently working mainly on the back side of things.
