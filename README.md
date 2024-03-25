@@ -5,7 +5,7 @@ In case you cared enough to come here - I'm a 3rd year Computer Science student,
 
 ### Big music enjoyer, a bigger one* :point_down:
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21d3anjhfkwm6xqcco2hvqqhi&count=3&width=500)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21d3anjhfkwm6xqcco2hvqqhi&count=3&width=500&unique=true)
 
 
 ### Have worked with:  
