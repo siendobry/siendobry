@@ -1,7 +1,6 @@
 ## Welcome to my :parking:rofile :facepunch:
-
-Looking for experienced developer or revolutionary projects? Sorry to disappoint you.. but I'm gettin' there :pray:  
-In case you cared enough to come here - I'm a 3rd year Computer Science student, mostly interested in full-stack development, but recently working mainly on the back side of things.
+  
+In case you cared enough to look here - I'm a 3rd year Computer Science student, mostly interested in full-stack development, but recently working mainly on the back side of things.
 
 ### Big music enjoyer, a bigger one* :point_down:
 
@@ -11,7 +10,6 @@ In case you cared enough to come here - I'm a 3rd year Computer Science student,
 ### Have worked with:  
 [![My Skills](https://skillicons.dev/icons?i=js,java,kotlin,py,c,git,nodejs,express,react,spring,mongodb,postgres,postman,html,css,figma&perline=8)](https://skillicons.dev)
 
-doesn't necessarily mean I know them :ok_woman:
 <!--
 **siendobry/siendobry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
